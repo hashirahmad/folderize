@@ -1,7 +1,7 @@
 # folderize
 It simply places all the files into the given directory into its own folder
-***This is a side project.***
-***It is not production ready code***
+<br>***This is a side project.***
+<br>***It is not production ready code***
 
 ## Why?
 I store my favourites music on cloud so when I change phones - favourites are not lost
@@ -13,7 +13,7 @@ This script ***autonimizes*** the leborious task <br>**Simple.<br> Straight forw
 
 ## Step 1
 run `node index.js` and follow the ***on-screen instructions***
-**Enjoy!**
+<br>**Enjoy!**
 
 ## Bugs
 If a `filename` has spaces before the extension than Node.js `fs` does not like it.
